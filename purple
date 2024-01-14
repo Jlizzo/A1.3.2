@@ -1,0 +1,31 @@
+<!--my name is Jody and I almost forgot this comment-->
+<!DOCTYPE html>
+<!--I have-->
+<html>
+<!--a thing-->
+<head>
+<!--for complimentary-->
+<title>New Title</title>
+<link rel="stylesheet" href="main.css">
+h1,footer {font-family:elephant;}
+<!--color schemes.-->
+</head>
+<!--Hopefully-->
+<body>
+<!--the contrast-->
+<h1 style="background-color:#ff33cc; font-family:elephant;">Go Gettem, Tiger!</h1>
+<!--of this-->
+<p style="font-family:chiller; font-size:60px;">I have no idea what I'm doing and it's awesome!
+<!--color choice-->
+<br>
+<!--won't burn-->
+<a href="https://www.uat.edu/robotics-and-embedded-systems-degree" style="font-family:elephant; background-color:#ff33cc; font-size:20px;">Technology Studies Focusing on RES</a>
+<!--your-->
+</p>
+<!--eyes-->
+<br>
+<br>
+<footer>Footer</footer>
+</body>
+<!--out-->
+</html>
