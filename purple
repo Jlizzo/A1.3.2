@@ -7,7 +7,6 @@
 <!--for complimentary-->
 <title>New Title</title>
 <link rel="stylesheet" href="main.css">
-h1,footer {font-family:elephant;}
 <!--color schemes.-->
 </head>
 <!--Hopefully-->
